@@ -20,7 +20,7 @@ You can create and search any topics you want
 Share your thought and chat!
 ![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/83f6ad9e-59f3-4952-ada9-0d4a847b7688)
 
-Mobile version adapt for sure:
+Mobile version adapt for sure:  
 ![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/c1bd1dbc-aa91-4aaa-9f85-c8d6f9532378)
 ![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/a698eea9-a0eb-493b-818a-00e5c2e8a737)
 
