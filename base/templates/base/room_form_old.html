@@ -1,0 +1,14 @@
+{% extends 'main.html' %} 
+
+{% block content %}
+
+<div>
+    <form method="POST" action="">
+        {% csrf_token %}
+        {{form.as_p}}  <!--如果使用自带的form，这样去提取 -->
+        <input type="submit" value="Submit"/>
+    </form>
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,12 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<!-- confirm会默认提交到本页面进行操作，相当于自己post自己 -->
+<form method="POST" action="">  
+    {% csrf_token%}
+    <p>Are you sure to Delete "{{obj}}"?</p>
+    
+    <a href="{{request.META.HTTP_REFERER}}">Go back</a>
+    <input type="submit" value="Confirm"/>
+</form>
+{% endblock content %}
