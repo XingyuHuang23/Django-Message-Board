@@ -23,4 +23,5 @@ Just simply clone the repo in local, and make sure you have Python 3.8 up versio
 **Mobile version adapt for sure:**  
 ![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/c1bd1dbc-aa91-4aaa-9f85-c8d6f9532378)
 ![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/a698eea9-a0eb-493b-818a-00e5c2e8a737)
+![image](https://github.com/XingyuHuang23/Django-Message-Board/assets/91016605/d7d84950-a14e-4bf3-a867-0c10ce6115e4)
 
